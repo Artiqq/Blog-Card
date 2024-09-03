@@ -79,7 +79,7 @@ p {
   line-height: 1.6;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 385px) {
   #card {
     width: 100%;
     margin: 2rem auto;
